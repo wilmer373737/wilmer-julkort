@@ -15,3 +15,11 @@ function myFunction() {
       }
     }
   }
+
+function byttillbild() {
+document.getElementById('logga').src = 'img/bild3.webp';
+}
+function byttilllogga() {
+document.getElementById('logga').src = 'img/bild4.webp';
+}
+    
